@@ -1,0 +1,6 @@
+.mysql
+.nginx
+src
+.env
+docker-compose.yml
+Dockerfile
